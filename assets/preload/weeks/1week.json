@@ -1,0 +1,44 @@
+{
+	"storyName": "Geometrical Rap!",
+	"difficulties": "easy, normal",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"Geometrical Dominator",
+			"dashy",
+			[
+				255,
+				200,
+				0
+			]
+		],
+		[
+			"Striker",
+			"dashy2",
+			[
+				255,
+				100,
+				0
+			]
+		],
+		[
+			"Infiltration",
+			"darkness",
+			[
+				0,
+				35,
+				0
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Custom Week"
+}
